@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Smart Wealth](https://github.com/RichithaGutha/smart-wealth)
+### 🧠 [Smart Wealth](https://github.com/RichithaGutha/Ai-finance-platform)
 An AI-powered personal finance dashboard to track expenses, visualize budgets, and send spending alerts.  
 **Tech:** Next.js · JavaScript · Supabase · PostgreSQL
 
