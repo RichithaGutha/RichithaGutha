@@ -11,7 +11,7 @@
 An AI-powered personal finance dashboard to track expenses, visualize budgets, and send spending alerts.  
 **Tech:** Next.js · JavaScript · Supabase · PostgreSQL
 
-### 🏛️ [AI Government Agent](https://github.com/RichithaGutha/ai-government-agent)
+### 🏛️ [AI Government Agent](https://github.com/RichithaGutha/RuleLens_Agent)
 A real-time GPT-4 assistant that scrapes trusted `.gov` domains to answer user queries using LangChain and RAG pipelines.  
 **Tech:** Python · GPT-4 · LangChain · Playwright · BeautifulSoup
 
