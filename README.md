@@ -37,7 +37,6 @@ Trained multiple ML models to classify tumors with high accuracy using real-worl
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/richitha-gutha)
-- 📧 gutharichitha777@gmail.com
+- 📧 richithag2906@gmail.com
 
 Let’s collaborate on meaningful AI/ML projects! 🤝
